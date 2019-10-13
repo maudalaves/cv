@@ -1,0 +1,43 @@
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/columns.css");
+@import url("components/smallcontainer.css");
+
+
+
+h3{
+	color: #FF206E;
+	font-weight: bold;
+	font-size: 15px;
+	font-family: avenir;
+}
+
+h4{
+	color: #FF206E;
+	font-weight: bold;
+	font-size: 12px;
+	font-family: avenir;
+}
+
+h5{
+	color: black;
+	font-weight: bold;
+	font-size: 12px;
+	font-family: avenir;
+}
+
+body{
+	color: black;
+	font-size: 12px;
+	font-family: helvetica;
+	background-color: white;
+}
+
+#title-white{
+	color: white;
+}
+
+#logo-social{
+	size: 20px 20px;
+	align-items: center;
+}

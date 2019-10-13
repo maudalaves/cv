@@ -1,0 +1,31 @@
+.columns{
+  	display: flex;
+	flex-wrap: wrap;
+	margin: 10px;
+	justify-content: center;
+}
+
+.column{
+ 	align-items: center;
+  	justify-content: space-between;
+	padding: 20px;
+	flex-basis: 350px;
+	margin: 10px;
+	height: 120px;
+}
+
+.column-left{
+ 	align-items: center;
+  	justify-content: space-between;
+	padding: 20px;
+	flex-basis: 70px;
+	margin: 10px;
+}
+
+.column-right{
+ 	align-items: center;
+  	justify-content: space-between;
+	padding: 20px;
+	flex-basis: 350px;
+	margin: 10px;
+}

@@ -1,0 +1,26 @@
+.banner{
+	background-image: url(../../images/photomaud1.png);
+	background-size: cover;
+	height: 300px;
+	padding: 150px 0px;
+	display: grid;
+	text-align: center;
+	text-align: left;
+}
+
+.banner h1{
+	font-size: 60px;
+	color: white;
+	font-family: avenir;
+}
+
+.banner-grey{
+	background-color: rgba(0,0,0,.1);
+	padding: 30px 30px;
+}
+
+.banner-green{
+	background-color: #58919a;
+	padding: 30px 30px;
+	margin-top: 50px;
+}
